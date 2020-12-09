@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ilies.mebarki@googlemail.com**
 
-- ⚡ Fun fact **I'm**
+- ⚡ Fun fact **I'm actually very funny ;) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
