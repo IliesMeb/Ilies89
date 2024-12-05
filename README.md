@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilies</h1>
-<h3 align="center">A highly motivated fullstack developer from Munich, Germany, with passion about sports and sportsdata</h3>
+<h3 align="center">A highly motivated python developer and data scientist from Munich, Germany, with passion about sports and sportsdata</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliesmeb&label=Profile%20views&color=0e75b6&style=flat" alt="iliesmeb" /> </p>
-
-- 🌱 I’m currently learning **Javascript/angularjs/nodejs by heart**
 
 - 👯 I’m looking to collaborate on **anything that expands my coding knowledge**
 
